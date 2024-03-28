@@ -1,0 +1,29 @@
+{
+  "name": "blanditiiset",
+  "version": "1.0.0",
+  "description": "JavaScript Key Binding Library",
+  "main": "keyboard.js",
+  "scripts": {
+    "test": "node test.js",
+    "web": "python -m SimpleHTTPServer 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CathrinePowlowski/blanditiiset.git"
+  },
+  "homepage": "https://github.com/CathrinePowlowski/blanditiiset.git",
+  "keywords": [
+    "voluptates",
+    "keyboard layout",
+    "heatmap",
+    "keyevent",
+    "keypress",
+    "keydown",
+    "porro",
+    "eius",
+    "browser",
+    "chrome"
+  ],
+  "author": "JoSchuster",
+  "license": "MIT"
+}
